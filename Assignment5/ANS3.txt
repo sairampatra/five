@@ -1,0 +1,7 @@
+Q:what are th benifits of using meta tags
+A: i-Improved SEO: Meta tags provide information to search engines about your webpage's content, helping it rank better in search results.
+ii-Clickable Search Results: They allow you to define a concise and engaging description that appears in search results, encouraging users to click on your link.
+iii-ensures your webpage displays characters correctly, preventing strange symbols or errors.
+iv-Responsive Design: The meta viewport tag helps your webpage adapt to different screen sizes
+v-Browser Compatibility: Some meta tags help with browser compatibility and rendering, ensuring your webpage looks consistent across different browsers.
+vi-Security: Meta tags can include security-related headers  to protect your site from certain security vulnerabilities.

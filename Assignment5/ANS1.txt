@@ -1,0 +1,13 @@
+Q:what is SEO? Explain it's importance
+A: SEO stands for search engine optimization.SEO is a process of optimizing a website to improve visibility on search engine like google,yahoo.it's objective is to improve organic traffic by ranking high in search engine results.
+key elements in SEO are:
+    i-using relevent keyword in content
+    ii-optimizing title,meta description and headings
+    iii-building high qulity backlink for our website
+    iv-ensure your website is search engine friendly
+
+importance os SEO
+    i-visibility:SEO helps in showing our website higher in the search results which willincrese the chances of people to visiting our website
+    ii-traffic:improving SEO will helps in improving organic traffic
+    iii-crdibility:higher search ranking will improve websites credibility and trustworthiness
+    iv-mobile optimization: SEO encourages mobilefriendly design which is very important in todays mobile centric world
